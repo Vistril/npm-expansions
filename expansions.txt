@@ -499,6 +499,7 @@ Noble Programming Mantra
 Noble Pug Mullet
 Nobody Packages More
 Nobody Pays (for) Magazines
+Nobody Pays Monkeys
 Nobody Peels Mangoes
 Nobody Picked Me
 Nobody Prefers Margarine
@@ -777,8 +778,3 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-#
-# please don't add your expansions down here!
-# insert them in alphabetical order to help reduce merge conflicts.
-#
-# <3
